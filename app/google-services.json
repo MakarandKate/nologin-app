@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "701096580672",
+    "firebase_url": "https://nologin-3e96d.firebaseio.com",
+    "project_id": "nologin-3e96d",
+    "storage_bucket": "nologin-3e96d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701096580672:android:c9c389c28b7b73d5",
+        "android_client_info": {
+          "package_name": "in.pecule.nologin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701096580672-l5vlctgqjug440s1gd8cp5490hh4uot6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBYPK-aEud9DfjG1T3GDeC8zquln6lV3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
